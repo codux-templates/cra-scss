@@ -1,14 +1,14 @@
 # Blank Scss Boilerplate for Codux
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It includes a single React component to start your project with, a sample [`codux.config.json`](https://github.com/codux-templates/blank-scss/blob/main/codux.config.json) with preconfigured keys, a `package.json` file to describe the project's packages and dependencies, and a folder and component structure to put everything neatly in its place.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It includes a single React component to start your project with, a sample [`codux.config.json`](codux.config.json) with preconfigured keys, a `package.json` file to describe the project's packages and dependencies, and a folder and component structure to put everything neatly in its place.
 
 This project includes Sass support for writing nested rules, style variables, imports, etc.
 
-# Using the Project
+## Available Scripts
 
-Clone the project from here: **`https://github.com/codux-templates/blank-scss.git`**
-
-After doing this, you can run any of the following scripts from the project directory.
+In the project directory, you can run:
 
 ### `npm start`
 
