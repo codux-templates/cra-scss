@@ -1,5 +1,5 @@
 <div align="center">  
-    <img height="50"src="./src/assets/images/codux.svg">  
+    <img height="50"src="./src/assets/codux.svg">  
     <h1 >SCSS, CSS Modules template for Codux</h1>
 </div>
 
@@ -11,15 +11,15 @@ This application was bootstrapped with [`create-react-app`](https://github.com/f
 
 It includes a single React component to start your project with, a sample [`codux.config.json`](codux.config.json) with preconfigured keys, a `package.json` file to describe the project's packages and dependencies, and a folder and component structure to put everything neatly in its place.
 
--   Edit, render and compose apps that make use of React-based components.
--   Create React-based components with TypeScript, SCSS and CSS Modules support.
--   Visually edit in real-time and in an isolated environment.
+- Edit, render and compose apps that make use of React-based components.
+- Create React-based components with TypeScript, SCSS and CSS Modules support.
+- Visually edit in real-time and in an isolated environment.
 
 ### Development
 
 The following scripts are available:
 
-`npm run build` - Build the application in production mode into a folder named `dist`. This folder can be served using any HTTP server. 
+`npm run build` - Build the application in production mode into a folder named `dist`. This folder can be served using any HTTP server.
 
 `npm start` - Start the application in **development** mode (and open the web browser).
 
